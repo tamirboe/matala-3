@@ -1,5 +1,6 @@
 import json
 import re 
+import os
 
 def read():
     conver= open("C:/Users/Tamir/מבוא להנדסת ידע ונתונים/מטלה 3/Whatsapp.txt", encoding='utf-8')
